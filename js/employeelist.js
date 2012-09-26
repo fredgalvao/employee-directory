@@ -2,6 +2,7 @@ var db;
 var dbCreated = false;
 
 console.log("Hello!!!!!!");
+alert("Hello!!!!!!");
 
 
 var scroll = new iScroll('wrapper', { vScrollbar: false, hScrollbar:false, hScroll: false });
